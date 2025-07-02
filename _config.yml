@@ -36,5 +36,11 @@ exclude:
   - README
   - README.md
   - LICENSE
-  
+
+languages:
+  - en
+  - es
+
 remote_data_prefix: "https://eric-bitlab.github.io/open-sdg-data"
+repository_url_data: "https://github.com/eric-bitlab/open-sdg-data"
+repository_url_site: "https://github.com/eric-bitlab/open-sdg-site"
